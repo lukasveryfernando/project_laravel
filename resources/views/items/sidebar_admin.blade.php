@@ -97,15 +97,12 @@
 				</li><li>
 					<a href='?module=JS Arrays'><i class='fa fa-angle-double-right'></i>JS Arrays[ GALIH ADI PRATAMA]</a>
 				</li><li>
-					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[ 		]</a>
-				</li><li>
-					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[	]</a>
+					<a href="{{route('jslukas')}}"><i class='fa fa-angle-double-right'></i>JS lukas Very Fernando[lUKAS VERY FERNANDO]</a>
 				</li><li>
 					<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[    ]</a>
 				</li><li>
 					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'>			</i>JS Syntax		[   ]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
 				</li><li>
 					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
 				</li><li>
